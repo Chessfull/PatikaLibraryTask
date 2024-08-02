@@ -35,13 +35,10 @@ namespace PatikaLibraryTask
 
             /* ▼ Instructions on task -> "Write Class, Property, New and Constructor concepts below of all code ▼ :
              'Class' -> 'Book'
-             'Properties' -> In this case I just used fields for no requirement of encapsullation.
+             'Properties' -> In this case I just used fields for no requirement of encapsullation. Properties for controlling read and set actions of field with encapsullation way.
              'New' -> For creating instance - new Book()
              'Constructor' -> It works firstly when created Instance of object. new Book()
              */
-
-
-
         }
     }
 }
